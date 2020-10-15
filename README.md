@@ -1,9 +1,9 @@
 # Telecommunications Company Analysis 
 ## Predicting Customer Churn
 
-**Authors**: Miguel Santana
-**Student Pace**: Full Time
-**Instructor name**: James Irving
+* **Authors**: Miguel Santana
+* **Student Pace**: Full Time
+* **Instructor name**: James Irving
 
 ### Business problem:
 SyriaTel is a telecommunications company looking to improve customer churn. The company provided client data in order to better understand whether a consumer would stop doing business with the company. The OSEMN framework will be used to analyze the dataset and prepare it for machine learning algorithms that will classify feature importance. Selected features will be used to give business insight and reduce customer churn.
@@ -21,13 +21,13 @@ The The SyriaTel dataset is available on Kaggle's website. The dataset can be fo
 
 ## Top Model: Light Gradient Boosting Machine 
 ### Model Performance
-**ROC Curve**
+* **ROC Curve**
 ![graph3](./RocAuc.png)
 
-**Confusion Matrix**
+* **Confusion Matrix**
 ![graph4](./confusion.png)
 
-**Model Learning Curve**
+* **Model Learning Curve**
 ![graph5](./learningcurve.png)
 
 # Conclusion, Insights and Future Work
@@ -35,7 +35,7 @@ The The SyriaTel dataset is available on Kaggle's website. The dataset can be fo
 The dataset offered various consumer trends and illustrated multiple areas of opportunity. Two areas of opportunity addressed common retail business pitfalls; customer service and high cost products (international minutes being the most expensive). Lastly, day minutes are the most common of the available categories and directly influenced the majority of consumer costs. These and future trends can be used to prepare for future business.
 
 ## Top Features
-**Visualizing Top Features**
+* **Visualizing Top Features**
 ![graph6](./graphedfeatures.png)
 
 ## Business Recommendations 
