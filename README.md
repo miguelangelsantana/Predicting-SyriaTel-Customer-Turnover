@@ -25,7 +25,7 @@ The The SyriaTel dataset is available on Kaggle's website. The dataset can be fo
 ![graph3](./RocAuc.png)
 
 * **Confusion Matrix**
-![graph4](./confusion.png)
+![graph4](./confusion.pdf)
 
 * **Model Learning Curve**
 ![graph5](./learningcurve.png)
