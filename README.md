@@ -1,9 +1,7 @@
 # Telecommunications Company Analysis 
 ## Predicting Customer Churn
 
-* **Authors**: Miguel Santana
-* **Student Pace**: Full Time
-* **Instructor name**: James Irving
+* **Author**: Miguel Santana
 
 ### Business problem:
 SyriaTel is a telecommunications company looking to improve customer churn. The company provided client data in order to better understand whether a consumer would stop doing business with the company. The OSEMN framework will be used to analyze the dataset and prepare it for machine learning algorithms that will classify feature importance. Selected features will be used to give business insight and reduce customer churn.
