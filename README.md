@@ -10,23 +10,23 @@ SyriaTel is a telecommunications company looking to improve customer churn. The 
 The SyriaTel dataset is available on Kaggle's website. The dataset can be found [here.](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset) 
 
 ## Process
-![graph1](./OSEMN.png)
+![graph1](/images/OSEMN.png)
 **The OSEMN Framework was used to analyze the data**
 
 ## Exploratory Data Analysis | Total Customer Calls
 **Visualizing Day, Eve and Night Calls**
-![graph2](./totalcalls.png)
+![graph2](/images/totalcalls.png)
 
 ## Top Model: Light Gradient Boosting Machine 
 ### Model Performance
 * **ROC Curve**
-![graph3](./RocAuc.png)
+![graph3](/images/RocAuc.png)
 
 * **Confusion Matrix**
-![graph4](./confusion.png)
+![graph4](/images/confusion.png)
 
 * **Model Learning Curve**
-![graph5](./learningcurve.png)
+![graph5](/images/learningcurve.png)
 
 # Conclusion, Insights and Future Work
 ## Conclusion
@@ -34,7 +34,7 @@ The dataset offered various consumer trends and illustrated multiple areas of op
 
 ## Top Features
 * **Visualizing Top Features**
-![graph6](./graphedfeatures.png)
+![graph6](/images/graphedfeatures.png)
 
 ## Business Recommendations 
 
@@ -51,6 +51,18 @@ Future Work
 In order to more accurately define the boundaries of our features it is important to understand what customs and cultural influences are tied to this dataset. SyriaTel is not a United States based cell phone carrier and cultural influences may impact the way we perceive the information. In addition, it would be helpful to have more client specific data in order to understand on an individual level which client segments are leaving the company and what features they share. 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./churn_student.ipynb) or review our [presentation](./powerpoint.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./churn_student.ipynb) or review our [presentation](/powerpoint/powerpoint.pdf)
 
-For any additional questions, please contact **Miguel Santana at msantana269@gmail.com**)
+For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
+
+
+##### Repository Structure:
+
+```
+
+├── README.md               <- The top-level README for reviewers of this project.
+├── churn_student.ipynb     <- narrative documentation of analysis in jupyter notebook
+├── presentation.pdf        <- pdf version of project presentation
+
+```
+
