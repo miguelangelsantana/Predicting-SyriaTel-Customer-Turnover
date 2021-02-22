@@ -51,7 +51,7 @@ Future Work
 In order to more accurately define the boundaries of our features it is important to understand what customs and cultural influences are tied to this dataset. SyriaTel is not a United States based cell phone carrier and cultural influences may impact the way we perceive the information. In addition, it would be helpful to have more client specific data in order to understand on an individual level which client segments are leaving the company and what features they share. 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./churn_student.ipynb) or review our [presentation](/powerpoint/powerpoint.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./jupyter_notebook.ipynb) or review our [presentation](./presentation.pdf)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
@@ -61,7 +61,7 @@ For any additional questions, please reach out via email at santana2.miguel@gmai
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
-├── churn_student.ipynb     <- narrative documentation of analysis in jupyter notebook
+├── jupyter_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf        <- pdf version of project presentation
 
 ```
